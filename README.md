@@ -1,1 +1,1 @@
-"#Two-Stage Mini Op-Amp" 
+# Two-Stage Mini Op-Amp
