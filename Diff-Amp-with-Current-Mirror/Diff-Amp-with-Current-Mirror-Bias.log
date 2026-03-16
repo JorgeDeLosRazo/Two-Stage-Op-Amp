@@ -1,0 +1,15 @@
+LTspice 24.1.4 for Windows
+Circuit: C:\Users\jorge\Two-Stage-Op-Amp\Diff-Amp-with-Current-Mirror\Diff-Amp-with-Current-Mirror-Bias.net
+Start Time: Mon Mar 16 02:00:24 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.084 seconds.
+
+Files loaded:
+C:\Users\jorge\Two-Stage-Op-Amp\Diff-Amp-with-Current-Mirror\Diff-Amp-with-Current-Mirror-Bias.net
+C:\Users\jorge\AppData\Local\LTspice\lib\cmp\standard.bjt
+
