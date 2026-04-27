@@ -1,5 +1,5 @@
 # Two-Stage Mini Op-Amp
-As part of my Electronics 2 (ECE 322) course, I had to simulate and build a two stage operation amplifier. This repo includes all the LTSpice simulations.
+This repo explores the passive-vs-active loads, current mirror biasing, and output stages in the process of designing a two-stage operational amplifier.
 
 ## Components Used
 Two four-transistor array chips were used:
