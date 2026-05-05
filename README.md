@@ -12,3 +12,4 @@ Since a differential amplifier requires that the two transistors used are identi
 
 ## Differential Amplifier
 
+
